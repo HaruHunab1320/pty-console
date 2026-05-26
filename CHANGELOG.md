@@ -2,6 +2,11 @@
 
 All notable changes to `pty-console` will be documented in this file.
 
+## [0.3.2] - 2026-05-26
+
+### Changed
+- Repository extracted from the parallax monorepo into its own standalone repo at `github.com/HaruHunab1320/pty-console`. Package metadata (`repository`, `homepage`) updated accordingly. No source code changes.
+
 ## [0.3.1] - 2026-02-25
 
 ### Added
