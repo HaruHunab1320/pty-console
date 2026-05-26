@@ -36,12 +36,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HaruHunab1320/parallax",
-    "directory": "packages/pty-console"
+    "url": "https://github.com/HaruHunab1320/pty-console.git"
   },
-  "homepage": "https://github.com/HaruHunab1320/parallax/tree/main/packages/pty-console#readme",
+  "homepage": "https://github.com/HaruHunab1320/pty-console#readme",
   "dependencies": {
-    "pty-manager": "workspace:^1.9.0"
+    "pty-manager": "^1.11.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.1",
